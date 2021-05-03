@@ -1,2 +1,3 @@
-# android-mimetype-detector
+# Android MIMEtype Detector
+
 ファイルのMIMEタイプを判定するアプリ。
