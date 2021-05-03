@@ -1,8 +1,10 @@
 <resources>
     <string name="app_name">Android MIMEtype Detector</string>
 
-    <string name="button_text">ファイルを選択</string>
+    <string name="button_text">Select file</string>
 
-    <string name="alert_title_text">MIMEタイプ</string>
+    <string name="error_text">Please select a file.</string>
+
+    <string name="alert_title_text">MIME type</string>
     <string name="alert_positive_text">OK</string>
 </resources>
